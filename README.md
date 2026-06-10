@@ -2,7 +2,7 @@
 Customer shopping behavior analysis project featuring data cleaning with pandas, PostgreSQL integration, SQL analytics, and an interactive Power BI dashboard for actionable business insights.
 
 
-# 🛍️ Customer Shopping Behaviour Analysis
+# Customer Shopping Behaviour Analysis
 
 ## Overview
 This project analyzes customer shopping behaviour using Python, PostgreSQL, SQL, and Power BI. It follows an end-to-end analytics workflow, from data cleaning and feature engineering to database integration, SQL analysis, and interactive dashboard creation.
